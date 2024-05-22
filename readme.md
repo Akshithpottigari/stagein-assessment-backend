@@ -1,0 +1,1 @@
+API provides a hardcoded list of stories and users for the frontend, along with image URLs. I've opted not to serve the actual images to minimize storage costs on Vercel. Instead, I provide source URLs in our data.js file for easy access and integration within the application.
